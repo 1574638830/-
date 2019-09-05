@@ -1,12 +1,15 @@
 {
   "pages": [
-    "pages/home/home"
+    "pages/home/home",
+    "pages/test/test"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#f00",
+    "navigationBarTitleText": "小程序",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false,
+    "backgroundColor": "black"
   },
-  "sitemapLocation": "sitemap.json"
+"sitemapLocation": "sitemap.json"
 }
